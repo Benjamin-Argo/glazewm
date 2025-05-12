@@ -1,0 +1,2 @@
+# glazewm
+glazewm config
